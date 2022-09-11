@@ -1,0 +1,33 @@
+*{
+    font-family: 'Marcellus', serif;
+}
+.btn1, .orange, h4 .tick-icons{
+    color: orange;
+}
+.img1{
+    position: relative;
+}
+.img2{
+    position: absolute;
+    top: 490%;
+    left: 25%;
+    width: 15%;
+}
+.link-a, .link-b:hover{
+text-decoration: none;
+color: orange;
+}
+li{
+    list-style: none;
+}
+.link-b{
+    color: #626975;
+    text-decoration: none;
+}
+.nav-active {
+    background-color:#212A3B;
+    box-shadow: 5px -1px 12px -5px grey;
+}
+@media only screen and (max-width:990px){
+   
+}
